@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: hiphopsid/bankapp:v4
+        image: hiphopsid/bankapp:v5
         ports:
         - containerPort: 8080
         env:
